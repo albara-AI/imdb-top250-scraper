@@ -107,7 +107,6 @@ jupyter notebook last_version.ipynb
 imdb-scraper-pipeline/
 ├── last_version.ipynb          ← Full pipeline notebook (Q1 + Q2 + Q3)
 ├── requirements.txt            ← Python dependencies
-├── .gitignore                  ← Excludes CSV/DB output files
 └── README.md
 ```
 
@@ -163,4 +162,5 @@ with correct syntax.
 | Mo'men | 2130462 |
 
 **Albaraa Aljaber** — Data Science & AI, The Hashemite University
-📧 [your.email@example.com] · 💼 [linkedin.com/in/your-handle] · 🌐 [yourname.com]
+📧 [albaraaljaberwork@gmail.com]
+💼 [https://www.linkedin.com/in/albara-aljaber/]
