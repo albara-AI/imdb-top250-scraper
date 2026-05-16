@@ -10,7 +10,7 @@
 > store in SQLite → query with SQL.**
 > Academic Assignment — Data Science & AI, The Hashemite University, 2025.
 >
-> **Team:** Omar (2330200) · Albaraa (2239515) · Mo'men (2130462)
+> **Team:** Omar  · Albara · Mo'men 
 
 ---
 
